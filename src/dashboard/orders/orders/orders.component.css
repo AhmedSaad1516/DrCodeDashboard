@@ -1,0 +1,32 @@
+.nice-select {
+    -webkit-tap-highlight-color: transparent;
+    background-color: #f6f7f8;
+    border-radius: 3px;
+    border: solid 1px #f6f7f8;
+    box-sizing: border-box;
+    clear: both;
+    cursor: pointer;
+    display: block;
+    float: left;
+    font-family: inherit;
+    font-size: 1rem;
+    font-weight: normal;
+    height: 50px;
+    line-height: 44px;
+    outline: none;
+    padding-left: 20px;
+    padding-right: 30px;
+    position: relative;
+    text-align: left !important;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
+    -ms-transition: all 0.2s ease;
+    -o-transition: all 0.2s ease;
+    transition: all 0.2s ease;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    white-space: nowrap;
+    width: auto;
+}
